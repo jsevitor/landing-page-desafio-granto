@@ -1,8 +1,17 @@
-# Landing Page - Granto Seguros
+# Landing Page - Desafio Granto Seguros
+
+
+## Objetivo do Desafio
+O objetivo do desafio Granto Seguros foi encontrar uma solução inovadora que simplifique e agilize o processo de gestão de contratos, aumentando a eficiência operacional da empresa e proporcionando uma melhor experiência aos clientes.
 
 ## Descrição
 
-Esta é a landing page do desafio Granto Seguros, apresentando a Inteligência Artificial URSULAH, que simplifica a análise de contratos utilizando técnicas avançadas de Machine Learning. A landing page foi desenvolvida utilizando HTML, CSS, e integrações com um chatbot nos botões CTA.
+Esta é a landing page submetida ao desafio Granto Seguros. Foi desenvolvida utilizando HTML, CSS e JavaScript, com o intuito de replicar o site da Granto Seguros para apresentar a Inteligência Artificial URSULAH como a solução inovadora para simplificar a análise de contratos. URSULAH é apresentada como parte integrante da empresa, pensada para otimizar processos e melhorar a experiência dos clientes.
+
+## Demonstração
+
+![image](https://github.com/user-attachments/assets/a49245ea-0fd5-40a1-9703-f634ec9eed8f)
+
 
 ## Funcionalidades
 
@@ -28,18 +37,6 @@ Esta é a landing page do desafio Granto Seguros, apresentando a Inteligência A
 ```
 .
 ├── assets
-│   ├── favicon.svg
-│   ├── logo.svg
-│   ├── logo-g.png
-│   ├── logo-black.svg
-│   ├── stamp.svg
-│   ├── woman.svg
-│   ├── searching.svg
-│   ├── puzzle.svg
-│   ├── chat.svg
-│   ├── article1.svg
-│   ├── article2.svg
-│   ├── article3.svg
 ├── styles
 │   └── style.css
 ├── js
@@ -60,30 +57,6 @@ Esta é a landing page do desafio Granto Seguros, apresentando a Inteligência A
    ```
 3. Abra o arquivo `index.html` em um navegador web.
 
-## Detalhes da Integração com o Chatbot
-
-Os botões CTA ("Falar agora") na página estão integrados com um chatbot para facilitar a comunicação com os usuários. Quando o usuário clica nesses botões, ele é redirecionado para o chatbot no WhatsApp, onde pode obter informações adicionais e suporte imediato.
-
-### Exemplo de Integração (HTML):
-
-```html
-<div class="cta-button">
-  <a href="https://api.whatsapp.com/send/?phone=553433168055&text=Olá, gostaria de saber mais sobre a URSULAH." target="_blank">
-    <button>Falar agora</button>
-  </a>
-</div>
-```
-
-### JavaScript para Ações do Chatbot (scripts.js):
-
-```javascript
-document.querySelectorAll('.cta-button a').forEach(button => {
-  button.addEventListener('click', () => {
-    window.open('https://api.whatsapp.com/send/?phone=553433168055&text=Olá, gostaria de saber mais sobre a URSULAH.', '_blank');
-  });
-});
-```
-
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
@@ -91,3 +64,10 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Contato
+
+Caso queira entrar em contato, me encontre em:
+
+- **LinkedIn**: [linkedin.com/in/josevitoroliveira](https://linkedin.com/in/josevitoroliveira)
+- **E-mail**: [vitorjseo@gmail.com](mailto:vitorjseo@gmail.com)
