@@ -12,6 +12,10 @@ Esta é a landing page submetida ao desafio Granto Seguros. Foi desenvolvida uti
 
 ![image](https://github.com/user-attachments/assets/a49245ea-0fd5-40a1-9703-f634ec9eed8f)
 
+## Acesso ao Projeto
+
+A landing page pode ser acessada diretamente pelo link:
+[https://jsevitor.github.io/landing-page-desafio-granto/](https://jsevitor.github.io/landing-page-desafio-granto/)
 
 ## Funcionalidades
 
